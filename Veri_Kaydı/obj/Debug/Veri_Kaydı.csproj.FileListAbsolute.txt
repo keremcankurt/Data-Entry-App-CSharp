@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\bin\Debug\Veri_Kaydı.exe.config
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\bin\Debug\Veri_Kaydı.exe
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\bin\Debug\Veri_Kaydı.pdb
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.Form1.resources
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.Properties.Resources.resources
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.csproj.CopyComplete
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.exe
+C:\Users\user\source\repos\Veri_Kaydı\Veri_Kaydı\obj\Debug\Veri_Kaydı.pdb
